@@ -1,2 +1,2 @@
 # Python
- Codigos feitos em python
+ linguagem Python 
